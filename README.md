@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hello and welcome to my profile! 
 
-<!--
-**barbosaleo98/barbosaleo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media.giphy.com/media/6IhNAybWshRNCBQR35/giphy.gif" alt="Schwarzenegger looking cool as Mr. Freeze" style="width:300px;"/>
 
-Here are some ideas to get you started:
+**About me:**
+- 👋 My name is Leonardo Barbosa da Silva 
+- ⚡ Electrical engineer and a master's degree student at the Universidade Federal do Paraná (Brazil) 
+- 📡 I'm a researcher in the area of communication systems and V2X networks
+- 💻 Software development enthusiast  
+- 📚 Learning Java 
+- 🚗 Studying Artery simulations
+- ❄️ Self-proclaimed 1997's "Batman & Robin" #1 fan  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I'm familiar with
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Other ways to contact me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-barbosa-da-silva/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardobarbosa98@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leonardobarbosa_98@hotmail.com)
+
+
+
+
+
+
+
+
