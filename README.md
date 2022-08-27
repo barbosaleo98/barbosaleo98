@@ -7,7 +7,7 @@
 - ⚡ Electrical engineer and a master's degree student at the Universidade Federal do Paraná (Brazil) 
 - 📡 I'm a researcher in the area of communication systems and V2X networks
 - 💻 Software development enthusiast  
-- 📚 Learning Java 
+- 📚 Practicing C++ and CMake 
 - 🚗 Studying Artery simulations
 - ❄️ Self-proclaimed 1997's "Batman & Robin" #1 fan  
 
