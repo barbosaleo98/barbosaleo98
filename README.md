@@ -4,8 +4,8 @@
 
 ### About me:
 - 👋 My name is Leonardo Barbosa da Silva 
-- ⚡ Electrical engineer and a master's degree student at the Universidade Federal do Paraná (Brazil) 
-- 📡 I'm a researcher in the area of communication systems and V2X networks
+- ⚡ Electrical engineer and a master's double-degree seeker student at the Universidade Federal do Paraná (Brazil) and Technische Hochschule Ingolstadt (THI) 
+- 📡 I'm a researcher in the area of communication systems and Car2X (V2X) networks
 - 💻 Software development enthusiast  
 - 📚 Practicing C++ and CMake 
 - 🚗 Studying Artery simulations
